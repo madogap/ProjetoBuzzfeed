@@ -1,0 +1,87 @@
+{
+    "title": "Você seria um heroi ou vilão?",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Qual super poder você escolheria",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Raios-Lazer",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Voar",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Explosão",
+                    "alias": "A"
+                },
+                {
+                    "id": 4,
+                    "name": "Curar",
+                    "alias": "B"
+                },
+                {
+                    "id": 5,
+                    "name": "Soltar Fogo",
+                    "alias": "A"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Quem você salvaria primeiro ?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Crianças",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Idosos",
+                    "alias": "A"
+                },
+                {
+                    "id": 3,
+                    "name": "Não sabeira escolher",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Qual a sua maior preocupação ao enfrentar outro super ser?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Não destruir prédios",
+                    "alias": "B"
+                },
+                {
+                    "id": 2,
+                    "name": "Socar a cara do inimigo",
+                    "alias": "A"
+                },
+                {
+                    "id": 3,
+                    "name": "Não sugar meu traje",
+                    "alias": "A"
+                },
+                {
+                    "id": 4,
+                    "name": "Não deixar ninguém se ferir",
+                    "alias": "B"
+                }
+            ]
+        }
+    ],
+    "results": {
+        "A": "Você muito provavelmente seria um super vilão!",
+        "B": "Você muito provavelmente seria um super herói!"
+    }
+}
